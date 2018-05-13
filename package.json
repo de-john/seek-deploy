@@ -21,8 +21,7 @@
     "react-geolocated": "^2.3.2",
     "react-places-autocomplete": "^6.1.3",
     "react-scripts": "1.1.4",
-    "reactstrap": "^5.0.0",
-    "webpack": "^4.8.3"
+    "reactstrap": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -38,7 +37,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-1": "^6.24.1",
-    "concurrently": "^1.0.0",
+    "concurrently": "^3.5.1",
     "history": "^4.7.2",
     "material-ui": "^0.20.0",
     "nodemon": "^1.17.3",
